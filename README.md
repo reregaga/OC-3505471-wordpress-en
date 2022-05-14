@@ -1,2 +1,1 @@
-# OC-3505471-wordpress-en
-Openclassrooms.com Course: Build quick and beautiful WordPress sites
+Quiz answers and cheat sheet for openclassrooms.com [WordPress](https://openclassrooms.com/en/courses/3505471-build-quick-and-beautiful-wordpress-sites) course.
