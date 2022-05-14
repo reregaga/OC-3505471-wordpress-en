@@ -41,6 +41,7 @@ You'll use Themecloud here for the following reasons, instead of other quick ins
 
 ## Configure your WordPress settings
 Go to https://example.com/wp-admin/index.php  
+
 ![figure 1](./img/dashboard.jpg)
 The left-hand navigation menu provides links to all of the WordPress administration screens, with submenu items displayed on hover.  
 
@@ -56,6 +57,7 @@ The left-hand navigation menu provides links to all of the WordPress administrat
     - **Language** will change your dashboard language instantly once you save the settings. Consider the language you speak as well as your client's language, if they'll have administrative or writing access.
 
 You can **preview** your site anytime by clicking the site name in the top left corner of the **Dashboard**.
+
 ![figure 2](./img/visit_site.jpg)
 
 # Part 2 - Tailor your WordPress site
@@ -101,6 +103,7 @@ Once you map out your site structure and add the necessary pages to WordPress, y
 WordPress themes are much more than flimsy design skins! They'll give life to your website and can completely change the display of your content depending on the theme you choose. File types within a theme can include **template** files, **image** files like JPEGs and GIFs, CSS **stylesheets**, and even **PHP code**!
 
 All WordPress pages are made up of three basic elements: a **header**, **content**, and a **footer**.
+
 ![figure 6](./img/wp_page.png)
 
 ### Choosing a first theme
@@ -131,6 +134,7 @@ You'll be looking at modifications to the following menu items:
 - Widgets
 
 You'll notice **many themes have very similar customization menus**. Don't be worried: these exercises will be useful no matter which theme you use!
+
 ![figure 7](./img/wp_customize.jpg)
 
 ### Static front page
